@@ -21,4 +21,5 @@ function solution(s) {
         let arr = answer.split(number[i]);
         answer = arr.join[i];
     }
+    return Number(answer);
 }
