@@ -16,5 +16,9 @@ function solution(s) {
         'nine',
     ];
     let answer = s;
-    return result;
+
+    for (let i = 0; i < numbers.length; i++) {
+        let arr = answer.split(number[i]);
+        answer = arr.join[i];
+    }
 }
